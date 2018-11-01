@@ -1,0 +1,17 @@
+img{
+    width: 600px;
+    height: 500px;
+    border: 10px purple groove;
+    margin: 10px;
+    padding:2px;
+}
+p{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    /* padding: ;  */
+    /* You can also do padding-right: 200px;
+    This configures the one side Top,Right,Bottom,Left */
+    border: 10px dashed blue; 
+
+}
